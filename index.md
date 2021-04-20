@@ -1,7 +1,7 @@
 # Zoey Ng's Programming I Portfolio
 ## [Contact Information](mailto:zoeyng9616@granitesd.org)
 
-Bio:
+Bio: I took Computer Progamming I in 2020-2021 because it had intrigued me. 
 
 
 ## Processing Projects
@@ -23,3 +23,36 @@ Windowsx64 Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfo
 
 MacOS Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/src/Calculator/application.macosx.zip)
 
+
+
+### + Screen Saver
+An OOP calculator application made in OCTOBER 2020 with Processing.
+![ScreenSaver](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/images/ScreenSaver.png?raw=true)
+
+Source Code For Space Game Project Located [here](https://github.com/Zoeyng9616/CP_Portfolio/tree/gh-pages/src/ScreenSaver)
+
+Windowsx64 Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/src/ScreenSaver/application.windows64.zip)
+
+MacOS Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/src/ScreenSaver/application.macosx.zip)
+
+
+### + Car
+An OOP calculator application made in DECEMBER 2020 with Processing.
+![Car](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/images/Car.png?raw=true)
+
+Source Code For Space Game Project Located [here](https://github.com/Zoeyng9616/CP_Portfolio/tree/gh-pages/src/Car)
+
+Windowsx64 Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/src/Car/application.windows64.zip)
+
+MacOS Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/src/Car/application.macosx.zip)
+
+
+### + Computer Timeline
+An OOP calculator application made in SEPTEMBER 2020 with Processing.
+![ComputerTimeline](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/images/ComputerTimeline.png?raw=true)
+
+Source Code For Space Game Project Located [here](https://github.com/Zoeyng9616/CP_Portfolio/tree/gh-pages/src/ComputerTimeline)
+
+Windowsx64 Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/src/ComputerTimeline/application.windows64.zip)
+
+MacOS Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/src/ComputerTimeline/application.macosx.zip)
