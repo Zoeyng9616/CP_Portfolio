@@ -1,1 +1,2 @@
-# CP_Portfolio
+# Programming I Portfolio
+## Zoey Ng
