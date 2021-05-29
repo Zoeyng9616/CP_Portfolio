@@ -6,11 +6,11 @@ Bio: I took Computer Progamming I in 2020-2021 because it had intrigued me. I le
 
 ## Processing Projects
 
-### + Dungeon
+### + Final Project
 An OOP dungeon game made with Processing.
 ![SpaceGame](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/images/Dungeon.png?raw=true)
 
-Source Code For Space Game Project Located [here](https://github.com/Zoeyng9616/CP_Portfolio/tree/gh-pages/src/SpaceGame)
+Source Code For Dungeon Located [here](https://github.com/Zoeyng9616/CP_Portfolio/tree/gh-pages/src/SpaceGame)
 
 Windowsx64 Excecutable Downloaded [here](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/src/SpaceGame/application.windows64.zip)
 
