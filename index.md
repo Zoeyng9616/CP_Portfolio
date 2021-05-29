@@ -10,7 +10,7 @@ Bio: I took Computer Progamming I in 2020-2021 because it had intrigued me. I le
 An OOP dungeon game made with Processing.
 ![Dungeon](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/images/Dungeon.png?raw=true)
 
-![DungeonUML](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/images/UML.png)
+![DungeonUML](https://github.com/Zoeyng9616/CP_Portfolio/blob/gh-pages/images/UML.png?raw=true)
 
 Source Code For Dungeon Located [here](https://github.com/Zoeyng9616/CP_Portfolio/tree/gh-pages/src/Dungeon)
 
